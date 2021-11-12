@@ -102,3 +102,16 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+
+@media (max-width: 576px) {
+  h1,
+  h2,
+  h3,
+  a {
+    font-size: 20px;
+  }
+
+  a {
+    max-width: fit-content;
+  }
+}
