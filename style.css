@@ -111,6 +111,9 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+.footer {
+  margin-top: 150px;
+}
 
 @media (max-width: 576px) {
   h1,
