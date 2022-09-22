@@ -20,12 +20,21 @@ h3 {
 h1 {
   font-size: 96px;
 }
+#qr-code{ display: inline;
+  margin: 0 auto;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  max-width: 150px;
+  border-radius:14px;
+
+}
 #profile {
   display: block;
   margin: 0 auto;
   margin-top: 40px;
   margin-bottom: 0px;
   max-width: 150px;
+  border-radius:14px;
 }
 
 h2 {
